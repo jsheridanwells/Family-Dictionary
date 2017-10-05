@@ -22,7 +22,3 @@ my_keys = my_family.keys
 my_keys.each do |key|
 	puts "#{my_family[key][:name]} is my #{key} and is #{my_family[key][:age]} years old"
 end
-
-
-
-# Krista is my sister and is 42 years old
